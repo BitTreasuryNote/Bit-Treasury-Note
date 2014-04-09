@@ -1,7 +1,9 @@
+Bit Treasury Note
+===========================
 
-BlackCoin official development tree
+<img src ="https://avatars0.githubusercontent.com/u/7142055?s=460">
 
-BlackCoin is a PoS-based cryptocurrency.
+Bit Treasury Note is a Proof of Stake based cryptocurrency that generates interest at a rate of .5% every 30 days. This interest accumulates on any holdings, therein of Bit Treasury Note not dependent upon principle value of holdings. Details to be posted soon...
 
 Development process
 ===========================
