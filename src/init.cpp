@@ -150,7 +150,7 @@ bool AppInit(int argc, char* argv[])
             std::string strUsage = _("Bit Treasury Note version") + " " + FormatFullVersion() + "\n\n" +
                 _("Usage:") + "\n" +
                   "  Bit Treasury Noted [options]                     " + "\n" +
-                  "  Bit Treasury Noted [options] <command> [params]  " + _("Send command to -server or blackcoind") + "\n" +
+                  "  Bit Treasury Noted [options] <command> [params]  " + _("Send command to -server or Bit Treasury Noted") + "\n" +
                   "  Bit Treasury Noted [options] help                " + _("List commands") + "\n" +
                   "  Bit Treasury Noted [options] help <command>      " + _("Get help for a command") + "\n";
 
