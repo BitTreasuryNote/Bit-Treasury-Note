@@ -81,4 +81,4 @@ Bit Treasury Note
 DOS prompt:
 cd \Bit Treasury Note\src
 mingw32-make -f makefile.mingw
-strip blackcoind.exe
+strip Bit Treasury Noted.exe
